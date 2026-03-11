@@ -26,4 +26,5 @@ end
 % Save the mask variable into a .mat file named Mask.mat
 save('Mask.mat','mask');
 
+
 disp('mask has been generated for all subjects, each with 6 cells, total rows per subject = 960, saved as Mask.mat');
