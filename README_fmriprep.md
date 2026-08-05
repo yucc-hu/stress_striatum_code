@@ -10,7 +10,7 @@ Preprocessing code associated with:
 
 | Software | Version |
 |----------|---------|
-| fMRIPrep | 25.1.4  |
+| fMRIPrep | 21.0.0  |
 | Docker   | —       |
 
 A FreeSurfer license is required.
